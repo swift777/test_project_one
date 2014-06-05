@@ -1,0 +1,15 @@
+//implements.class Human.java 
+public class hello
+{
+	
+
+	public void main(String[] args) 
+	{
+		
+		Human Human = new Human();
+		
+		System.out.print("‚ведите  5 букв -> ");
+
+	}
+
+}

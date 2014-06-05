@@ -1,0 +1,8 @@
+
+public class Human 
+{
+	human.go();
+	{
+		System.out.print(" 5 букв -> ");	
+	}
+};
